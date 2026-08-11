@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "name": "MainPrototypeActions",
+    "name": "PlayerActions",
     "maps": [
         {
             "name": "Player",
